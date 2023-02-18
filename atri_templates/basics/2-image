@@ -1,0 +1,231 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "c6fafbba-5e34-4c0f-b36c-22ae25cf7e4a",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "b37258d6-b06d-4249-a250-56c5fae22cf7",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "145px",
+          "height": "145px",
+          "borderRadius": "25px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "1ab2a692-44d9-4ce7-9c79-b5348e1ba9d8",
+    "childId": "c6fafbba-5e34-4c0f-b36c-22ae25cf7e4a"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "9db9e80f-9247-49c1-8588-e52301c11809",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "b37258d6-b06d-4249-a250-56c5fae22cf7",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/burg-soda.jpeg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "1ab2a692-44d9-4ce7-9c79-b5348e1ba9d8",
+    "childId": "9db9e80f-9247-49c1-8588-e52301c11809"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "7b4e8d5f-87f7-4472-acd1-a38c9ae8da31",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "145px",
+          "height": "145px",
+          "borderRadius": "25px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "7b4e8d5f-87f7-4472-acd1-a38c9ae8da31"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "a1fbb035-74f3-4e96-bad6-f1411c534162",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/burg-soda.jpeg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "a1fbb035-74f3-4e96-bad6-f1411c534162"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "1af2683b-b24a-46d5-98e0-fe478c02200f",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "display": "flex",
+          "columnGap": "20px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "1cd72203-8773-493a-8866-d2267c2b7dd6",
+    "childId": "1af2683b-b24a-46d5-98e0-fe478c02200f"
+  },
+  {
+    "id": "b501d4c9-e035-44bc-a1bc-6b84e317d414",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "b37258d6-b06d-4249-a250-56c5fae22cf7",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "1ab2a692-44d9-4ce7-9c79-b5348e1ba9d8",
+    "childId": "b501d4c9-e035-44bc-a1bc-6b84e317d414"
+  },
+  {
+    "id": "972eb7ae-0a17-4eaa-85ea-988ee059c994",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "972eb7ae-0a17-4eaa-85ea-988ee059c994"
+  },
+  {
+    "id": "0f68c73a-1943-440c-add5-8b9d0127a039",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {}
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "1cd72203-8773-493a-8866-d2267c2b7dd6",
+    "childId": "0f68c73a-1943-440c-add5-8b9d0127a039"
+  },
+  {
+    "id": "1ab2a692-44d9-4ce7-9c79-b5348e1ba9d8",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "1cd72203-8773-493a-8866-d2267c2b7dd6",
+        "index": 2
+      },
+      "alias": "Image73"
+    }
+  },
+  {
+    "id": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "1cd72203-8773-493a-8866-d2267c2b7dd6",
+        "index": 1
+      },
+      "alias": "Image72"
+    }
+  },
+  {
+    "id": "1cd72203-8773-493a-8866-d2267c2b7dd6",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Flex",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Flex114"
+    }
+  }
+]

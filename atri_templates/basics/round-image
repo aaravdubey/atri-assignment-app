@@ -1,0 +1,88 @@
+[
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "id": "7b4e8d5f-87f7-4472-acd1-a38c9ae8da31",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "styles": {
+          "width": "145px",
+          "height": "145px",
+          "borderRadius": "25px"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "7b4e8d5f-87f7-4472-acd1-a38c9ae8da31"
+  },
+  {
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "id": "a1fbb035-74f3-4e96-bad6-f1411c534162",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "custom": {
+          "alt": "No preview available",
+          "src": "/app-assets/burg-soda.jpeg"
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/customPropsTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "a1fbb035-74f3-4e96-bad6-f1411c534162"
+  },
+  {
+    "id": "3ff7c25f-269f-4f44-a4e9-f6452bf71eea",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "meta": {},
+    "state": {
+      "parent": {
+        "id": "",
+        "index": 0
+      },
+      "property": {
+        "callbacks": {
+          "onClick": [
+            {
+              "sendEventData": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  {
+    "type": "LINK$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "refId": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "childId": "3ff7c25f-269f-4f44-a4e9-f6452bf71eea"
+  },
+  {
+    "id": "be9343c4-ef9f-4738-b105-cd7b341b9414",
+    "type": "CREATE$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "meta": {
+      "pkg": "@atrilabs/react-component-manifests",
+      "key": "Image",
+      "manifestSchemaId": "@atrilabs/react-component-manifest-schema"
+    },
+    "state": {
+      "parent": {
+        "id": "templateRoot",
+        "index": 0
+      },
+      "alias": "Image72"
+    }
+  }
+]

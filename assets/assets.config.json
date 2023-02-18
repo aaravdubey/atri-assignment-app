@@ -1,0 +1,110 @@
+{
+  "logo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "home-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "doordarsh.svg": {
+    "mime": "image/svg+xml"
+  },
+  "grubhub.svg": {
+    "mime": "image/svg+xml"
+  },
+  "postmates.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rappi.svg": {
+    "mime": "image/svg+xml"
+  },
+  "breakfast.svg": {
+    "mime": "image/svg+xml"
+  },
+  "desserts.svg": {
+    "mime": "image/svg+xml"
+  },
+  "drinks.svg": {
+    "mime": "image/svg+xml"
+  },
+  "main-dishes.svg": {
+    "mime": "image/svg+xml"
+  },
+  "about-us-bg.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "location-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "mail-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "phone-icon.svg": {
+    "mime": "image/svg+xml"
+  },
+  "burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "milkshake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "pancakes.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "chicken-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "egg-toats.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "reg-soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "ice-cream.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "triple-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "back-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "front-arrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "avatar.jpg": {
+    "mime": "image/jpeg"
+  },
+  "star.svg": {
+    "mime": "image/svg+xml"
+  },
+  "chciken-nuggs.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burger-fries.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "fries-sauce.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "perfect-burger.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cheesecake.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "burg-soda.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "cola.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "hot-dog.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "three-burgers.jpeg": {
+    "mime": "image/jpeg"
+  }
+}
